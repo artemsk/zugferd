@@ -28,19 +28,19 @@
         }
     },
     "require": {
-        "php": ">=7.3",
+        "php": "*",
         "ext-simplexml": "*",
-        "goetas-webservices/xsd2php-runtime": "^0.2.13",
-        "horstoeko/mimedb": "^1",
-        "horstoeko/stringmanagement": "^1",
-        "jms/serializer": "^3",
-        "setasign/fpdf": "^1",
-        "setasign/fpdi": "^2",
-        "smalot/pdfparser": "^0|^2",
-        "symfony/finder": "^5|^6|^7",
-        "symfony/process": "^5|^6|^7",
-        "symfony/validator": "^5|^6|^7",
-        "symfony/yaml": "^5|^6|^7"
+        "goetas-webservices/xsd2php-runtime": "*",
+        "horstoeko/mimedb": "*",
+        "horstoeko/stringmanagement": "*",
+        "jms/serializer": "*",
+        "setasign/fpdf": "*",
+        "setasign/fpdi": "*",
+        "smalot/pdfparser": "*",
+        "symfony/finder": "*",
+        "symfony/process": "*",
+        "symfony/validator": "*",
+        "symfony/yaml": "*"
     },
     "require-dev": {
         "goetas-webservices/xsd2php": "^0",
